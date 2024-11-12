@@ -1,4 +1,4 @@
-# git简单练习
+# git简单练习plus
 ## 常用命令
 ### config系列命令
 - **git config --global user.name "用户名" 设置用户名**
